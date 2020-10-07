@@ -43,6 +43,7 @@
         <div class="form-inline" align="center">
             <input type="submit" class="btn btn-primary" value="添加">
             <a class="btn btn-primary" href = "${pageContext.request.contextPath}/book/allBook">取消</a>
+        </div>
     </form>
 
 </div>
